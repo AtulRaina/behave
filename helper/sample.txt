@@ -1,0 +1,27 @@
+"1"|"some"|"3"|"long stings"|"aaaa"||"Y"||"je;;;;d"|'kkkkkkk'
+"1"|"some"|"3"|"long stings"|"aaaa"|||"Y"|"je;;;;d"|'kkkkkkk'
+"1"|"some"|"3"|"long stings"|"aaaa"|||"Y"|"je;;;;d"|'kkkkkkk'
+"1"|"some"|"3"|"long stings"|"aaaa"|||"N"|"je;;;;d"|'kkkkkkk'
+"1"|"some"|"3"|"long stings"|"aaaa"||||"je;;;;d"|'kkkkkkk'
+"1"|"some"|"3"|"long stings"|"aaaa"|||"N"|"je;;;;d"|'kkkkkkk'
+"1"|"some"|"3"|"long stings"|"aaaa"||||"je;;;;d"|'kkkkkkk'
+"1"|"some"|"3"|"long stings"|"aaaa"||||"je;;;;d"|'kkkkkkk'
+"1"|"some"|"3"|"long stings"|"aaaa"||||"je;;;;d"|'kkkkkkk'
+"1"|"some"|"3"|"long stings"|"aaaa"||||"je;;;;d"|'kkkkkkk'
+"1"|"some"|"3"|"long stings"|"aaaa"||||"je;;;;d"|'kkkkkkk'
+"1"|"some"|"3"|"long stings"|"aaaa"||||"je;;;;d"|'kkkkkkk'
+"1"|"some"|"3"|"long stings"|"aaaa"||||"je;;;;d"|'kkkkkkk'
+"1"|"some"|"3"|"long stings"|"aaaa"||||"je;;;;d"|'kkkkkkk'
+"1"|"some"|"3"|"long stings"|"aaaa"||||"je;;;;d"|'kkkkkkk'
+"1"|"some"|"3"|"long stings"|"aaaa"||||"je;;;;d"|'kkkkkkk'
+"1"|"some"|"3"|"long stings"|"aaaa"||"55"||"je;;;;d"|'kkkkkkk'
+"1"|"some"|"3"|"long s55"|"aaaa"||||"je;;;;d"|'kkkkkkk'
+"1"|"some"|"3"|"long stings"|"aaaa"||||"je;;;;d"|'kkkkkkk'
+"1"|"some"|"5|"long stings"|"aaaa"||||"je;;;;d"|'kkkkkkk'
+"1"|"some"||"long stings"|"aaaa"||||"je;;;;d"|'kkkkkkk'
+"1"|"some"|"3"|"long stings"|"aaaa"||||"je;;;;d"|'kkkkkkk'
+
+
+
+
+
