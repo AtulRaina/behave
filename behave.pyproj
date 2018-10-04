@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{a9d2e4b8-af06-4c2d-b817-8fd191bc7cb0}</ProjectGuid>
+    <ProjectHome />
+    <StartupFile />
+    <SearchPath />
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <ProjectTypeGuids>{888888a0-9f3d-457c-b088-3a5042f75d52}</ProjectTypeGuids>
+    <LaunchProvider>Standard Python launcher</LaunchProvider>
+    <InterpreterId />
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)' == 'Debug'" />
+  <PropertyGroup Condition="'$(Configuration)' == 'Release'" />
+  <PropertyGroup>
+    <VisualStudioVersion Condition=" '$(VisualStudioVersion)' == '' ">10.0</VisualStudioVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="behave.ini" />
+    <Content Include="features\tests\first.feature" />
+    <Content Include="features\tests\second.feature" />
+    <Content Include="helper\confi.json" />
+    <Content Include="helper\sample.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="features\environment.py" />
+    <Compile Include="features\steps\name_is_not_same_as_feature_file.py" />
+    <Compile Include="features\steps\second.py" />
+    <Compile Include="helper\DataTest.py" />
+    <Compile Include="helper\helper_json.py" />
+    <Compile Include="helper\sampletoload.py" />
+    <Compile Include="helper\sql.py" />
+    <Compile Include="helper\__init__.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="features" />
+    <Folder Include="features\tests\" />
+    <Folder Include="features\steps" />
+    <Folder Include="helper" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+</Project>
